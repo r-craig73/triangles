@@ -17,4 +17,4 @@
 
 ## MIT License
 
-#### Copyright (c) 2018 _Ron Craig & Bryce Frazier_
+#### Copyright (c) 2018 _Ron Craig & Jared Clemmsensen_
